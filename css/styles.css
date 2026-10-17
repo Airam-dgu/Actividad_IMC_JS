@@ -1,0 +1,41 @@
+.calculadora {
+    border: 2px solid black;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.calculadora {
+    border: 2px solid black;
+    width: 220px;
+    padding: 15px;
+    display: inline-block;
+}
+
+.calculadora label {
+    display: inline-block;
+    width: 80px;
+    border: 1px solid black;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+.calculadora input {
+    width: 80px;
+    padding: 5px;
+    margin-left: 15px;
+}
+
+button {
+    margin-left: 53px;
+    margin-top: 15px;
+    padding: 7px;
+    background-color: orchid;
+}
+
+.informacion {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 70px;
+}
+
